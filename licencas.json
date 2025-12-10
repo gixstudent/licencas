@@ -1,0 +1,9 @@
+{
+  "clientes": {
+    "cliente_exemplo": {
+      "senha": "senha123",
+      "ativo": true,
+      "id_maquina": ""
+    }
+  }
+}
